@@ -1,0 +1,3 @@
+TESTID,CLIPNAME,VIDEOA,VIDEOB,VIDEOA_METHOD,VIDEOB_METHOD
+1,assets/test/video.mp4,testA.mp4,testB.mp4,RAW,CRIT_OPT
+2,assets/test/video1.mp4,testA.mp4,testB.mp4,CRIT_OPT,RAW
